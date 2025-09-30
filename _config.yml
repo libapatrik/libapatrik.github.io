@@ -3,5 +3,5 @@ description: My Personal Website
 theme: minima
 
 header_pages:
-  - index
-  - phenylketonuria
+  - index.md
+  - phenylketonuria.md
