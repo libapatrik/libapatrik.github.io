@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Phenylketonuria
-permalink: /Phenylketonuria/
+permalink: /PhenylketonuriaSK/
 ---
 
 # My Projects
