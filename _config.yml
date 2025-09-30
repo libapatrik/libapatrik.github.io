@@ -1,6 +1,8 @@
 # title: Patrik Liba
 # description: My Personal Website
-# theme: minima
+
+
+theme: minima
 
 header_pages:
   - index.md
