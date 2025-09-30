@@ -2,6 +2,7 @@
 layout: page
 title: Phenylketonuria
 permalink: /Phenylketonuria/
+nav_order: 2
 ---
 
 # My Projects
