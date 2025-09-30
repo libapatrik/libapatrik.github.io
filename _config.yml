@@ -4,5 +4,5 @@ theme: minima
 
 header_pages:
   - index.md
-  - phenylketonuriaEN.md
-  - phenylketonuriaSK.md
+  - phenylketonuria-en.md
+  - phenylketonuria-sk.md
